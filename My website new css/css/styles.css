@@ -1,0 +1,154 @@
+body {
+  background-color: #FEF3CC;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 4rem;
+  color: #66BFBF;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-top: 2px;
+  padding-bottom: 2px;
+
+
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-size: 2rem;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+
+}
+
+.skill-row {
+  width: 60%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  padding-top: 80px;
+}
+
+
+
+.Chess {
+  width: 25%;
+  float: left;
+  margin-right: 80px;
+  margin-bottom: 0;
+}
+
+
+.Adventure {
+  width: 25%;
+  margin-left: 80px;
+  float: right;
+
+}
+
+
+hr {
+  width: 7%;
+  border: 5px dotted grey;
+  border-bottom: 0;
+  border-width: 10px;
+  margin: 100px auto 100px auto;
+
+}
+
+
+.Description {
+  line-height: 3;
+  width: 25%;
+    margin: auto;
+
+}
+
+
+.p {
+  line-height: 3;
+}
+
+
+
+
+.top {
+  background-color: #F9F3EE;
+  padding-top: 150px;
+  position: relative;
+}
+
+.btn {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: 'Montserrat', sans-serif;
+  color: #000000;
+  font-size: 15px;
+  background: #CCF3EE;
+  padding: 7px 10px 7px 10px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #CCF3EE;
+}
+
+.middle {
+  margin: 100px 0;
+}
+
+.bottom {
+  background-color: #EFEAD8;
+  padding: 50px 0 50px;
+  color: black;
+}
+
+
+
+.copyright {
+  font-size: 0.75rem;
+  padding-top: 20px;  
+}
+
+
+
+
+
+.footer-link {
+   text-decoration: none;
+}
+
+.opinion {
+  width: 25%;
+  margin: 40px auto 60px;
+}
+
+.field {
+  width: 30%
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
